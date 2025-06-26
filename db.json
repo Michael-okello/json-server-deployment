@@ -1,12 +1,10 @@
 {
-  "apiEndpoint" : [
+        "posts": [
     {
-      "name" : "UMA",
-      "skills" : ["javaScript", "node.js", "react.js"]
-    },
-    {
-      "name":"RADHA",
-      "skills" : ["Adobe Illustrator", "Adobe After effects"]
+        "id": 1,
+        "title": "How Atomic Habits Changed My Life",
+        "author": "Rachel Kim",
+        "content": "It essentially helped me be more productive"
     }
-  ]
+    ]
 }
